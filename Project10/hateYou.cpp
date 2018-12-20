@@ -4,7 +4,7 @@ void main() {
 	printf("hellloo");
 	printf("hellldddoo");
 
-	printf("helllo");
+	printf("helo");
 
-	
-}
+	xza
+}dw
